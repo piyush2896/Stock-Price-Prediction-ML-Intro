@@ -1,0 +1,6 @@
+dataset/*
+.ipynb_checkpoints
+images/training/
+images/training2/
+images/rl/
+images/*.pptx
